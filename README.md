@@ -1,1 +1,2 @@
-# dsc180a_1
+# Data Ingestion - Assignment 1: 
+
